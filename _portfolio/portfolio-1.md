@@ -1,7 +1,7 @@
 ---
-title: "Median Household Income vs Access to Greenspaces in Baltimore City, MD"
-excerpt: "Short description of portfolio item number 1<br/><img src='/files/final_PRINT_Carlisle_Martinec_Craft.pdf'>"
+title: "How Much Green Can Money Buy?"
+excerpt: "Analyzed the relationship between median household income and access to green spaces in Baltimore City, revealing urban inequalities through spatial data. <br/><img src='/images/7cdd1faa-2963-4e07-b024-462eb519e205.png'>"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+This project investigates how median household income and property data correlate with access to parks and green spaces in Baltimore City. Utilizing Landsat-8 satellite imagery and census data, the study spans from 2015 to 2020, providing a comprehensive view of urban green space accessibility. Key findings indicate that areas with higher property values and household incomes have better access to manicured parks, while lower-income areas tend to have more forest-like green spaces. The research highlights the need for equitable urban planning to ensure all residents can enjoy the benefits of green spaces. 
