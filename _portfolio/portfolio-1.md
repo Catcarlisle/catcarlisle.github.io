@@ -1,6 +1,6 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Median Household Income vs Access to Greenspaces in Baltimore City, MD"
+excerpt: "Short description of portfolio item number 1<br/><img src='/files/final_PRINT_Carlisle_Martinec_Craft.pdf'>"
 collection: portfolio
 ---
 
