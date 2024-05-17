@@ -1,6 +1,6 @@
 ---
 title: "How Much Green Can Money Buy?"
-excerpt: "Analyzed the relationship between median household income and access to green spaces in Baltimore City, revealing urban inequalities through spatial data. <br/><img src='/images/7cdd1faa-2963-4e07-b024-462eb519e205.png'>"
+excerpt: "Analyzed the relationship between median household income and access to green spaces in Baltimore City, revealing urban inequalities through spatial data. <br/><img src='/images/7cdd1faa-2963-4e07-b024-462eb519e205.png' width='500' height='300'>"
 collection: portfolio
 ---
 
