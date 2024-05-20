@@ -47,3 +47,23 @@ Example: editing a markdown file for a talk
 For more info
 ------
 More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+
+### Blog
+- **The Importance of Green Spaces in Urban Planning**
+  - Exploring the benefits of urban green spaces for community well-being.
+  - [Read More](link_to_article)
+
+- **Remote Sensing Techniques for Environmental Monitoring**
+  - An in-depth look at the tools and methods for effective environmental monitoring.
+  - [Read More](link_to_article)
+
+### Testimonials
+- "**Caitlin's work in environmental science is exemplary. Her analytical skills and dedication are unmatched.**" - Dr. Jane Doe, UMBC
+
+- "**A true professional with a passion for making a difference in the world.**" - John Smith, Environmental Consultant
+
+### Interactive Map
+Explore the places where I've conducted field research and environmental studies. [View Map](link_to_map)
+
+### Connect With Me
+Feel free to reach out via [Email](mailto:caitlin.a.carlisle@gmail.com) or connect on [LinkedIn](https://www.linkedin.com/in/caitlin-carlisle-64533a1a2).
